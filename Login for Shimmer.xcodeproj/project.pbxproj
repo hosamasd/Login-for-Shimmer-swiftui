@@ -11,6 +11,17 @@
 		4E2456BC259CF89E00F42DF2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456BB259CF89E00F42DF2 /* ContentView.swift */; };
 		4E2456BE259CF8A000F42DF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E2456BD259CF8A000F42DF2 /* Assets.xcassets */; };
 		4E2456C1259CF8A000F42DF2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E2456C0259CF8A000F42DF2 /* Preview Assets.xcassets */; };
+		4E2456CC259CF8B900F42DF2 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456CB259CF8B900F42DF2 /* Home.swift */; };
+		4E2456DA259CF91C00F42DF2 /* CustomButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456D7259CF91C00F42DF2 /* CustomButtonModifier.swift */; };
+		4E2456DB259CF91C00F42DF2 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456D8259CF91C00F42DF2 /* CustomTextField.swift */; };
+		4E2456DC259CF91C00F42DF2 /* Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456D9259CF91C00F42DF2 /* Register.swift */; };
+		4E2456DF259CF92100F42DF2 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456DE259CF92100F42DF2 /* Login.swift */; };
+		4E2456FA259CFDC600F42DF2 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456F9259CFDC600F42DF2 /* ModelData.swift */; };
+		4E2456FF259CFE9500F42DF2 /* extension_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456FD259CFE9500F42DF2 /* extension_view.swift */; };
+		4E245700259CFE9500F42DF2 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2456FE259CFE9500F42DF2 /* Extensions.swift */; };
+		4E245707259D03FA00F42DF2 /* TextShimmer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E245706259D03FA00F42DF2 /* TextShimmer.swift */; };
+		4E24570B259D040E00F42DF2 /* ShimmerContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E24570A259D040E00F42DF2 /* ShimmerContentView.swift */; };
+		4E24570E259D041B00F42DF2 /* ShimmerHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E24570D259D041B00F42DF2 /* ShimmerHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +31,17 @@
 		4E2456BD259CF8A000F42DF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E2456C0259CF8A000F42DF2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4E2456C2259CF8A000F42DF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E2456CB259CF8B900F42DF2 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		4E2456D7259CF91C00F42DF2 /* CustomButtonModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtonModifier.swift; sourceTree = "<group>"; };
+		4E2456D8259CF91C00F42DF2 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		4E2456D9259CF91C00F42DF2 /* Register.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Register.swift; sourceTree = "<group>"; };
+		4E2456DE259CF92100F42DF2 /* Login.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Login.swift; path = "../../../../../../../ios tutorial/swiftui/channels/ Kavsoft/login/Login Page UI With Custom View Modifiers - Matched Geometry Effect/Login_Scroll/Login_Scroll/View/Login.swift"; sourceTree = "<group>"; };
+		4E2456F9259CFDC600F42DF2 /* ModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		4E2456FD259CFE9500F42DF2 /* extension_view.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = extension_view.swift; sourceTree = "<group>"; };
+		4E2456FE259CFE9500F42DF2 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		4E245706259D03FA00F42DF2 /* TextShimmer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextShimmer.swift; sourceTree = "<group>"; };
+		4E24570A259D040E00F42DF2 /* ShimmerContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShimmerContentView.swift; sourceTree = "<group>"; };
+		4E24570D259D041B00F42DF2 /* ShimmerHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShimmerHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +75,10 @@
 			isa = PBXGroup;
 			children = (
 				4E2456B9259CF89E00F42DF2 /* Login_for_ShimmerApp.swift */,
-				4E2456BB259CF89E00F42DF2 /* ContentView.swift */,
+				4E2456FC259CFE8800F42DF2 /* helpers */,
+				4E2456F8259CFDA400F42DF2 /* viewmodel */,
+				4E2456CE259CF8C200F42DF2 /* view */,
+				4E2456C9259CF8AE00F42DF2 /* scenes */,
 				4E2456BD259CF8A000F42DF2 /* Assets.xcassets */,
 				4E2456C2259CF8A000F42DF2 /* Info.plist */,
 				4E2456BF259CF8A000F42DF2 /* Preview Content */,
@@ -67,6 +92,78 @@
 				4E2456C0259CF8A000F42DF2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4E2456C9259CF8AE00F42DF2 /* scenes */ = {
+			isa = PBXGroup;
+			children = (
+				4E245704259D03CA00F42DF2 /* home shimmer */,
+				4E2456BB259CF89E00F42DF2 /* ContentView.swift */,
+				4E2456CB259CF8B900F42DF2 /* Home.swift */,
+			);
+			path = scenes;
+			sourceTree = "<group>";
+		};
+		4E2456CE259CF8C200F42DF2 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				4E245705259D03F000F42DF2 /* home shimmer */,
+				4E2456D2259CF90100F42DF2 /* registration */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		4E2456D2259CF90100F42DF2 /* registration */ = {
+			isa = PBXGroup;
+			children = (
+				4E2456DE259CF92100F42DF2 /* Login.swift */,
+				4E2456D9259CF91C00F42DF2 /* Register.swift */,
+				4E245702259D000200F42DF2 /* custom */,
+			);
+			path = registration;
+			sourceTree = "<group>";
+		};
+		4E2456F8259CFDA400F42DF2 /* viewmodel */ = {
+			isa = PBXGroup;
+			children = (
+				4E2456F9259CFDC600F42DF2 /* ModelData.swift */,
+			);
+			path = viewmodel;
+			sourceTree = "<group>";
+		};
+		4E2456FC259CFE8800F42DF2 /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				4E2456FD259CFE9500F42DF2 /* extension_view.swift */,
+				4E2456FE259CFE9500F42DF2 /* Extensions.swift */,
+			);
+			path = helpers;
+			sourceTree = "<group>";
+		};
+		4E245702259D000200F42DF2 /* custom */ = {
+			isa = PBXGroup;
+			children = (
+				4E2456D7259CF91C00F42DF2 /* CustomButtonModifier.swift */,
+				4E2456D8259CF91C00F42DF2 /* CustomTextField.swift */,
+			);
+			path = custom;
+			sourceTree = "<group>";
+		};
+		4E245704259D03CA00F42DF2 /* home shimmer */ = {
+			isa = PBXGroup;
+			children = (
+				4E24570A259D040E00F42DF2 /* ShimmerContentView.swift */,
+				4E24570D259D041B00F42DF2 /* ShimmerHome.swift */,
+			);
+			path = "home shimmer";
+			sourceTree = "<group>";
+		};
+		4E245705259D03F000F42DF2 /* home shimmer */ = {
+			isa = PBXGroup;
+			children = (
+				4E245706259D03FA00F42DF2 /* TextShimmer.swift */,
+			);
+			path = "home shimmer";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +236,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E2456BC259CF89E00F42DF2 /* ContentView.swift in Sources */,
+				4E2456CC259CF8B900F42DF2 /* Home.swift in Sources */,
+				4E245707259D03FA00F42DF2 /* TextShimmer.swift in Sources */,
+				4E2456DB259CF91C00F42DF2 /* CustomTextField.swift in Sources */,
 				4E2456BA259CF89E00F42DF2 /* Login_for_ShimmerApp.swift in Sources */,
+				4E2456DC259CF91C00F42DF2 /* Register.swift in Sources */,
+				4E245700259CFE9500F42DF2 /* Extensions.swift in Sources */,
+				4E24570E259D041B00F42DF2 /* ShimmerHome.swift in Sources */,
+				4E2456FF259CFE9500F42DF2 /* extension_view.swift in Sources */,
+				4E2456FA259CFDC600F42DF2 /* ModelData.swift in Sources */,
+				4E2456DA259CF91C00F42DF2 /* CustomButtonModifier.swift in Sources */,
+				4E24570B259D040E00F42DF2 /* ShimmerContentView.swift in Sources */,
+				4E2456DF259CF92100F42DF2 /* Login.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
